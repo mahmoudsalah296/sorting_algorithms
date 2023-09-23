@@ -12,3 +12,6 @@ Sorting Algorithms in C
 
 ### 3. Quick Sort
     Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
+
+### 100. Shell Sort - Knuth Sequence
+    Write a function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence
