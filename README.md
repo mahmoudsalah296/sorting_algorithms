@@ -20,5 +20,5 @@ a function that sorts an array of integers in ascending order using the Shell so
 a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm  
 a variation of the Bubble Sort algorithm which sorts values in both directions each pass through the list
 
-### 102. Counting Sort  
+### [102. Counting Sort](https://github.com/mahmoudsalah296/sorting_algorithms/blob/main/102-counting_sort.c)  
 a function that sorts an array of integers in ascending order using the Counting sort algorithm
