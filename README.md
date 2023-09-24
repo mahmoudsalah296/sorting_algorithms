@@ -17,5 +17,5 @@ a function that sorts an array of integers in ascending order using the Quick so
 a function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence
 
 ### 101. Cocktail Shaker Sort  
-a variation of the Bubble Sort algorithm  
+a variation of the Bubble Sort algorithm which sorts values in both directions each pass through the list  
 a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm
