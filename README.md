@@ -1,7 +1,7 @@
 Sorting Algorithms in C
 =======================
 
-[### 0. Bubble Sort](https://github.com/mahmoudsalah296/sorting_algorithms/blob/main/0-bubble_sort.c)  
+### [0. Bubble Sort](https://github.com/mahmoudsalah296/sorting_algorithms/blob/main/0-bubble_sort.c)  
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
 ### 1. Insertion Sort  
