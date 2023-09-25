@@ -38,7 +38,7 @@ void merge(int *array, int *tmp, int left, int mid, int right)
 }
 /**
  * merge_sort_recursive - sorts an array of integers in ascending order
- * 		using the top-down merge sort algorithm
+ *		using the top-down merge sort algorithm
  * @array: array to be sorted
  * @tmp: temporary array to store the sorted subarray
  * @left: leftmost index of the subarray
