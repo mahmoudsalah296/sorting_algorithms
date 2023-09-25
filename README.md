@@ -22,3 +22,6 @@ a variation of the Bubble Sort algorithm which sorts values in both directions e
 
 ### [102. Counting Sort](https://github.com/mahmoudsalah296/sorting_algorithms/blob/main/102-counting_sort.c)  
 a function that sorts an array of integers in ascending order using the Counting sort algorithm
+
+### 103. Merge Sort  
+a function that sorts an array of integers in ascending order using the Merge sort algorithm  
