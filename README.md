@@ -25,3 +25,6 @@ a function that sorts an array of integers in ascending order using the Counting
 
 ### 103. Merge Sort  
 a function that sorts an array of integers in ascending order using the Merge sort algorithm  
+
+### 104. Heap Sort  
+a function that sorts an array of integers in ascending order using the Heap sort algorithm
